@@ -1,0 +1,113 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #222222;
+    margin-top: -45px
+}
+.header {
+    background-image: url(../imagesVer/bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 15px;
+    
+
+}
+.container {
+    margin:45px 250px;
+    
+
+}
+.logo{
+    display: inline-block;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: white;
+
+}
+.main-links{
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 11px;
+    margin-left: 565px;
+    
+}
+.main-links a{
+    margin: 0 20px;
+    text-decoration: none;
+    color:#999999;
+}
+a.link{
+    color: #00D6B4;
+}
+.boxes{
+    columns: 3;
+    column-gap: 20px;
+
+}
+.boxes img{
+    margin: 20px 0;
+}
+.main {
+}
+.m-title {
+    font-size: 48px;
+    text-align: center;
+    margin: 150px 220px 35px 220px;
+    color: white;
+}
+.button {
+    display: inline-block;
+    margin-bottom: 189px;
+    text-align: center;
+    width: 100%;
+    
+}
+.button a{
+    border: 1px solid #00D6B4;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #00D6B4;
+    padding: 10px 15px;
+    border-radius: 3px;
+}
+
+
+.box {
+}
+.works-tit{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+
+}
+.head{
+    
+}
+.foot {
+    text-align: center;
+    margin-top: 100px;
+}
+.container {
+}
+.versusFoot {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2C2C2;
+
+}
+.powered {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+
+    text-align: center;
+
+    color: #999999;
+
+}
